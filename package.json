@@ -11,7 +11,7 @@
     "deploy": "gulp deploy"
   },
   "dependencies": {
-    "jquery": "^2.1.0",
+    "jquery": "^3.5.1",
     "what-input": "^1.1.2"
   },
   "license": "MIT",
